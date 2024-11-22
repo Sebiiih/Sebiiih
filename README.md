@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Sébastien.  
-A junior full-stack developer and curious explorer of the coding world.
-Always ready to take on new challenges, with a keyboard in one hand and coffee in the other! ☕
+A junior full-stack developer from France and a curious explorer of the coding world.
+Always ready to tackle new challenges, with a keyboard in one hand and a coffee in the other! ☕
 
 - **[My Portfolio](..)** where I showcase my projects and skills.
 
