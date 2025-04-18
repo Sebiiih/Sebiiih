@@ -52,8 +52,7 @@ Always ready to tackle new challenges, with a keyboard in one hand and a coffee 
 - [LinkedIn](https://www.linkedin.com/in/sebastien-desreumaux-835942287/)
 
 ## Github Stats
- ![theme](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebiiih) 
- ![theme](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sebiiih)
+ ![theme](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebiiih)  
 
 
 
