@@ -1,23 +1,11 @@
-# 👋 Salut ! Je suis Sébastien Desreumaux
+# 👋 Bonjour
 
 **Développeur Full-Stack** passionné basé en France 🇫🇷  
 Fondateur d'**[Evonia.tech](https://evonia.tech)** - Création de sites web et d'applications mobiles sur mesure.
 
-Toujours prêt à relever de nouveaux défis, un clavier dans une main et un café dans l'autre ! ☕
-
 ---
 
-## 🚀 À propos de moi
-
-- 💼 **Evonia.tech** - Mon entreprise spécialisée dans le développement web et mobile
-- 🌐 Création de **sites web modernes** et **applications mobiles performantes**
-- 🎯 Expert en **React**, **Next.js** et **React Native Expo Go**
-- 📱 Du web au mobile, je transforme vos idées en réalité digitale
-- 🔥 Passionné par les technologies modernes et l'innovation
-
----
-
-## 💻 Technologies & Compétences
+## Technologies & Compétences
 
 ### Langages
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -59,23 +47,6 @@ Toujours prêt à relever de nouveaux défis, un clavier dans une main et un caf
 
 ---
 
-## 🎯 Mon Parcours
-
-- **2024** : Formation intensive en développement web full-stack à O'clock (spécialisation WWM)
-- **Avant 2024** : Plusieurs années d'expérience dans la vente multimédia
-- **Aujourd'hui** : Fondateur d'Evonia.tech et développeur passionné par les technologies modernes
-
----
-
-## 🤝 Ce que je recherche
-
-- 🚀 **Collaborations** sur des projets open-source innovants
-- 💡 **Échanges techniques** autour du développement web et mobile  
-- 🙌 **Retours constructifs** sur mes projets pour progresser continuellement
-- 🔥 **Nouveaux défis** pour repousser mes limites
-
----
-
 ## 📊 Statistiques GitHub
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebiiih&layout=compact&theme=radical)
@@ -85,11 +56,11 @@ Toujours prêt à relever de nouveaux défis, un clavier dans une main et un caf
 ## 📫 Me Contacter
 
 - 📧 Email : **desreumaux.sebastien@gmail.com**
-- 💼 LinkedIn : **[Sébastien Desreumaux](https://www.linkedin.com/in/sebastien-desreumaux-835942287/)**
+- 🔗 LinkedIn : **[Sébastien Desreumaux](https://www.linkedin.com/in/sebastien-desreumaux-835942287/)**
 - 🌐 Site web : **[Evonia.tech](https://evonia.tech)**
 
 ---
 
 <div align="center">
-  <i>💻 "Le code est de la poésie en mouvement" 💻</i>
+  <i>💻 "Café, code, commit, repeat" 💻</i>
 </div>
