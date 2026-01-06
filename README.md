@@ -1,4 +1,4 @@
-# 👋 Bonjour
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=2CBA25&text=Sebiiih&textBg=false&reversal=false&fontColor=000000&stroke=14FF00&animation=twinkling)
 
 **Développeur Full-Stack** passionné basé en France 🇫🇷  
 Fondateur d'**[Evonia.tech](https://evonia.tech)** - Création de sites web et d'applications mobiles sur mesure.
@@ -28,6 +28,12 @@ Fondateur d'**[Evonia.tech](https://evonia.tech)** - Création de sites web et d
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
 
+### API & Services
+![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat&logo=fastapi&logoColor=white)
+![EmailJS](https://img.shields.io/badge/-EmailJS-FC6D26?style=flat&logo=maildotru&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Resend](https://img.shields.io/badge/-Resend-000000?style=flat&logo=resend&logoColor=white)
+
 ### Outils & Environnement
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -40,16 +46,38 @@ Fondateur d'**[Evonia.tech](https://evonia.tech)** - Création de sites web et d
 ### Hébergement & DevOps
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-7F56D9?style=flat&logo=render&logoColor=white)
+![OVH](https://img.shields.io/badge/-OVH-123F6D?style=flat&logo=ovh&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
 ![Certbot](https://img.shields.io/badge/-Certbot-000000?style=flat&logo=certbot&logoColor=white)
 
+### Sécurité & Bonnes Pratiques
+![.ENV](https://img.shields.io/badge/-.ENV-ECD53F?style=flat&logo=dotenv&logoColor=black)
+![HTTPS](https://img.shields.io/badge/-HTTPS/SSL-4285F4?style=flat&logo=letsencrypt&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Sanitize](https://img.shields.io/badge/-Sanitize-5C5C5C?style=flat&logo=npm&logoColor=white)
+![Honeypot](https://img.shields.io/badge/-Honeypot-FF6600?style=flat&logo=npm&logoColor=white)
+![Regex](https://img.shields.io/badge/-Regex_Validation-4B275F?style=flat&logo=npm&logoColor=white)
+![Rate Limit](https://img.shields.io/badge/-Rate_Limit-DC382D?style=flat&logo=npm&logoColor=white)
+![bcrypt](https://img.shields.io/badge/-bcrypt-003A70?style=flat&logo=npm&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+![2FA](https://img.shields.io/badge/-Double_Authentification-00A86B?style=flat&logo=authy&logoColor=white)
+
+### SEO & Performance
+![SEO](https://img.shields.io/badge/-SEO-47A248?style=flat&logo=google&logoColor=white)
+![Meta Tags](https://img.shields.io/badge/-Meta_Tags-4285F4?style=flat&logo=html5&logoColor=white)
+![Open Graph](https://img.shields.io/badge/-Open_Graph-4267B2?style=flat&logo=facebook&logoColor=white)
+![Sitemap](https://img.shields.io/badge/-Sitemap-FF6600?style=flat&logo=googlesearchconsole&logoColor=white)
+![robots.txt](https://img.shields.io/badge/-robots.txt-000000?style=flat&logo=probot&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/-Search_Console-EA4335?style=flat&logo=googlesearchconsole&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/-Lighthouse-F44B21?style=flat&logo=lighthouse&logoColor=white)
+
 ---
 
 ## 📊 Statistiques GitHub
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebiiih&layout=compact&theme=radical)
+[![Sébastien's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sebiiih&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
