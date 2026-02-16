@@ -1,5 +1,21 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=2CBA25&text=Sebiiih&textBg=false&reversal=false&fontColor=000000&stroke=14FF00&animation=twinkling)
+```
+███████╗██╗   ██╗ ██████╗ ███╗   ██╗██╗ █████╗   ████████╗███████╗ ██████╗██╗  ██╗
+██╔════╝██║   ██║██╔═══██╗████╗  ██║██║██╔══██╗  ╚══██╔══╝██╔════╝██╔════╝██║  ██║
+█████╗  ██║   ██║██║   ██║██╔██╗ ██║██║███████║     ██║   █████╗  ██║     ███████║
+██╔══╝  ╚██╗ ██╔╝██║   ██║██║╚██╗██║██║██╔══██║     ██║   ██╔══╝  ██║     ██╔══██║
+███████╗ ╚████╔╝ ╚██████╔╝██║ ╚████║██║██║  ██║     ██║   ███████╗╚██████╗██║  ██║
+╚══════╝  ╚═══╝   ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝     ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝
+```
+```
+> Sébastien 
+> ________________________
+> Développeur Full-Stack
+> Fondateur @ Evonia.tech
+> ________________________
+> [ Web ] [ Mobile ] [ IA ]
+```
 
+## 👋 Salut, moi c'est Sébastien !
 **Développeur Full-Stack** passionné basé en France 🇫🇷  
 Fondateur d'**[Evonia.tech](https://evonia.tech)** - Création de sites web et d'applications mobiles sur mesure.
 
@@ -75,17 +91,14 @@ Fondateur d'**[Evonia.tech](https://evonia.tech)** - Création de sites web et d
 
 ---
 
-## 📊 Statistiques GitHub
-
-[![Sébastien's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sebiiih&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ## 📫 Me Contacter
 
-- 📧 Email : **desreumaux.sebastien@gmail.com**
-- 🔗 LinkedIn : **[Sébastien Desreumaux](https://www.linkedin.com/in/sebastien-desreumaux-835942287/)**
-- 🌐 Site web : **[Evonia.tech](https://evonia.tech)**
+- 📧 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desreumaux.sebastien@gmail.com) : **desreumaux.sebastien@gmail.com**
+- 🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastien-desreumaux-835942287/) : **[Sébastien Desreumaux](https://www.linkedin.com/in/sebastien-desreumaux-835942287/)**
+- 🌐 Site web : [![Website](https://img.shields.io/badge/-evonia.tech-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://evonia.tech)
+
+---
 
 ---
 
