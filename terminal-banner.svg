@@ -147,9 +147,9 @@
 
   <!-- Line 2: const developer -->
   <g clip-path="url(#clip2)">
-    <text class="code-keyword" x="55" y="107">const</text>
-    <text class="code-variable" x="102" y="107"> developer</text>
-    <text class="code-bracket" x="190" y="107"> = {</text>
+    <text class="code-keyword" x="75" y="107">const</text>
+    <text class="code-variable" x="122" y="107"> developer</text>
+    <text class="code-bracket" x="210" y="107"> = {</text>
   </g>
 
   <!-- Line 3: name -->
