@@ -30,7 +30,7 @@ const contact = {
 ```
 
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:desreumaux.sebastien@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastien-desreumaux-835942287/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastien-desreumaux)
 [![Evonia.tech](https://img.shields.io/badge/-evonia.tech-000000?style=flat-square&logo=vercel&logoColor=white)](https://evonia.tech)
 
 ---
